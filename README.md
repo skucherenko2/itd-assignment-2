@@ -18,3 +18,5 @@ Analysis:
 - Some index usage actually hurts the performance (had to use ignore index).
 - Tables are highly populated and using indexes is not making as big impact as could have been due to low filtering.
 - e.g. we are only doing rating-based filtering which mostly satisfies condition.
+
+More info in Explanation.md
