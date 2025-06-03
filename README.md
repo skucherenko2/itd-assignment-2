@@ -8,7 +8,7 @@ Overview:
 | N | Optimizations steps | performance | gain |
 | --- | --- | --- | --- |
 | 0 | Initial query          | 4.45 sec | ---    |
-| 1 | Refactoring to use CTE | 4.6  sec | -3.3 % |
+| 1 | Refactoring to use CTE | 4.6 sec | -3.3 % |
 | 2 | Optimizing query logic | 4.41 sec | +4.3 % |
 | 3 | Introducing indexes    | 3.32 sec | +32.8% |
 
