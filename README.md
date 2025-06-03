@@ -1,6 +1,6 @@
 # itd-assignment-2
 
-Optimizing sql queries for suugesting best rated animes. 
+Optimizing sql queries for sugesting best rated animes. 
 
 Because we need more high-quality anime in our lives, don't we?
 
